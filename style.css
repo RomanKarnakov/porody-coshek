@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+    color: #007439;
+    font-size: 20px;
+    margin-left: 20px;
+    border-radius: 7px;
+}
+
+header {
+    background-color: #BF5230;
+    padding: 25px;
+}
+
+h1 {
+    color: #FF6E40;
+    font-size: 55px;
+    text-align: center;
+}
+
+h2 {
+    color: #FF9473;
+    font-size: 35px;
+    text-align: center;
+}
+
+main p {
+    color: #FF3D00;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #FF9473;
+    color: #007439;
+    padding: 5px 10px 5px 10px;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px 25px 5px 5px;
+    font-size: 20px;
+}
+
+.poroda {
+    font-size: 25px;
+}
+
+li {
+    color: #228653;
+    font-size: 25px;
+}
+
